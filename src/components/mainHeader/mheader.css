@@ -1,0 +1,30 @@
+.Mheader {
+  background: #00bac3;
+  height: 38px;
+}
+.header {
+  margin: 0 auto;
+}
+.logo2 {
+  height: 29px;
+  width: 192px;
+}
+.shoppingbag {
+  height: 57px;
+}
+.sideNav {
+  width: 943px;
+  margin-top: -56px;
+}
+.shopimg {
+  height: 34px;
+  z-index: 999;
+  position: absolute;
+  right: 133px;
+  margin-top: 20px;
+}
+
+.textc {
+  color: whitesmoke;
+  font-size: 57px;
+}

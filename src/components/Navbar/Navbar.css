@@ -1,0 +1,114 @@
+li {
+  list-style-type: none;
+  border: none !important;
+}
+.navbar_menu {
+  position: fixed;
+  font-weight: 900;
+  color: lightgrey;
+  line-height: 2;
+  font-size: 22px;
+  z-index: 999;
+  width: 184px;
+  top: 279px;
+  font-family: helvetica;
+  left: 24px;
+}
+
+@media (min-width: 1024px) and (max-width: 1200px) {
+  .navbar_menu {
+    margin-left: 10px;
+    font-family: helvetica;
+  }
+  .img_alignhome {
+    transform: scale(0.8);
+  }
+  .ion-row {
+    position: relative;
+    z-index: 1;
+    height: 87vh;
+    width: 100vw;
+    text-align: center;
+    padding-top: 237px;
+    padding-left: 28%;
+    padding-top: 30.5%;
+  }
+  .rfid_col {
+    padding-left: 73%;
+    margin-top: -70%;
+    z-index: 999;
+  }
+  .lef {
+    left: -22px;
+    top: -675px !important;
+    transform: scale(0.7);
+  }
+
+  .rfid_text {
+    font-size: 66px;
+  }
+  .ion-row_b {
+    background: white;
+    margin-top: 449px;
+    margin-left: -671px;
+  }
+
+  .beacon_img {
+    transform: scale(0.7);
+  }
+}
+
+@media (min-width: 700px) and (max-width: 950px) {
+  .navbar_menu {
+    position: fixed;
+    font-weight: 900;
+    color: lightgrey;
+    line-height: 2;
+    font-size: 22px;
+    z-index: 999;
+    width: 184px;
+    top: 297px;
+    left: 16px;
+    transform: scale(0.9);
+  }
+}
+
+@media (min-width: 2500px) {
+  .navbar_menu {
+    position: fixed !important;
+    font-weight: 900;
+    color: lightgrey;
+    line-height: 2;
+    font-size: 29px;
+    z-index: 999;
+    width: 203px;
+    top: 528px;
+    left: 24px;
+  }
+}
+
+.bd_bt {
+  border-bottom: 0 !important;
+}
+ul li:last-child {
+  border: none !important;
+}
+li .navbar_menu > li:last-child {
+  border-bottom: 0px !important;
+  border: none;
+}
+@media (min-width: 1800px) and (max-width: 2200px) and (min-height: 800px) and (max-height: 1100px) {
+  .navbar_menu {
+    position: fixed;
+    font-weight: 900;
+    color: lightgrey;
+    line-height: 2;
+    font-size: 22px;
+    z-index: 999;
+    width: 184px;
+    top: 43rem;
+    font-family: helvetica;
+    left: 10rem;
+    transform: scale(1.5);
+  }
+}

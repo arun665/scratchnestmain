@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: Helvetica Neue, Helvetica !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+
+  text-rendering: optimizeLegibility;
+  touch-action: manipulation;
+}
+
+a {
+  color: inherit;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: Helvetica Neue, Helvetica !important;
+}
+::-webkit-scrollbar-thumb {
+  background: #ff0000;
+}
+
+* {
+  box-sizing: border-box;
+}
+.lg {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+.w_714 {
+  width: 714px;
+}

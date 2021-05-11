@@ -1,0 +1,52 @@
+.basicp {
+  border: none;
+  border-bottom: 1px solid #353638;
+  padding: 12px 10px;
+  outline: none;
+  width: 397px;
+  background: black;
+  color: white;
+}
+.button_explore_row_cform {
+  margin-top: 3rem;
+  margin-left: 0rem;
+}
+
+.message {
+  color: whitesmoke;
+}
+
+[placeholder]:focus::-webkit-input-placeholder {
+  transition: text-indent 0.4s 0.4s ease;
+  text-indent: -100%;
+  opacity: 1;
+}
+.button1 {
+  background: #2c5858;
+  height: 0;
+  padding: 21px;
+  border-radius: 27%;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 700;
+  margin-top: 16px !important;
+}
+.submit {
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.h2_btn_txt {
+  margin-top: -9px;
+}
+@media (min-width: 2500px) {
+  .btnCol_2560 {
+    margin-left: 0rem;
+  }
+}

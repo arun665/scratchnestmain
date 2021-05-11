@@ -1,0 +1,738 @@
+.ion-row {
+  position: relative;
+  z-index: 1;
+  height: 87vh;
+  width: 100vw;
+
+  text-align: center;
+  padding-top: 237px;
+  padding-left: 50%;
+  padding-top: 30.5%;
+}
+.footer_row_sec_r {
+  height: 0;
+}
+.button_explore_row_r {
+  margin-top: 136px;
+  margin-left: -149px;
+}
+
+.button_exp {
+  background: white;
+  color: black;
+  border-radius: 50%;
+  width: 150px;
+  height: 52px;
+  font-weight: 800;
+}
+.rfid_text {
+  color: whitesmoke;
+  font-weight: 500;
+  font-size: 100px;
+}
+.rfid_col {
+  padding-left: 37%;
+  margin-top: -78%;
+  z-index: 999;
+}
+.rfid {
+  margin-top: 13rem;
+  position: relative;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.nav2 {
+  position: absolute;
+  padding-top: 67%;
+  margin-left: -9%;
+  width: 100%;
+}
+
+.rfid_text2 {
+  color: whitesmoke;
+  font-size: 30px;
+  font-weight: 500;
+  left: -3%;
+}
+.rfid_img {
+  z-index: 999;
+  margin-left: -50%;
+  margin-top: -48%;
+}
+
+@media (min-width: 1440px) and (max-width: 1800px) {
+  .rfid_img {
+    z-index: 999;
+    margin-left: -120%;
+    margin-top: -75%;
+    height: 117vh;
+  }
+  .ion-row {
+    height: 100vh !important;
+  }
+  .ts_16 {
+    margin-top: 156px !important;
+    position: relative;
+    top: -689px;
+    bottom: 0;
+    left: -12%;
+    z-index: 999;
+    text-align: left;
+  }
+  .nav2 {
+    position: absolute;
+    padding-top: 103% !important;
+    margin-left: -5% !important;
+    width: 100%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1440px) and (min-height: 670px) and (max-height: 800px) and (max-width: 1600px) {
+ 
+  .rfid_col {
+    padding-left: 37%;
+    margin-top: -83%;
+    z-index: 999;
+  }
+
+}
+@media (min-width: 1024px) and (max-width: 1200) {
+  .rfid_img {
+    margin-left: -41%;
+    margin-top: -29%;
+    transform: scale(0.8);
+  }
+  .ion-row {
+    height: 107vh !important;
+  }
+  .rfid_col {
+    padding-left: 46%;
+  }
+  .ts_16 {
+    left: -2% !important;
+  }
+  .nav2 {
+    position: absolute;
+    padding-top: 103% !important;
+    margin-left: -5% !important;
+    width: 100%;
+  }
+}
+.ts_16 {
+  margin-top: 210px;
+  position: relative;
+  top: -647px;
+  bottom: 0;
+  left: -12%;
+  z-index: 999;
+  text-align: left;
+}
+@media (min-width: 2500px) {
+  .navbar_menu {
+    position: fixed !important;
+    font-weight: 900;
+    color: lightgrey;
+    line-height: 2;
+    font-size: 22px;
+    z-index: 999;
+    width: 184px;
+    top: 279px;
+    left: 24px;
+  }
+
+  .footer_row_e > .Footer > .footergrid > .menu_foot > .menus_quicklink2 {
+    top: -11rem;
+    display: flex;
+    justify-content: space-around;
+    font-size: 24px;
+    left: 10rem;
+    transform: scale(1.3);
+  }
+  .btn_2560 {
+    margin-left: 10rem !important;
+  }
+  .button_explore_row_r {
+    margin-top: 164px;
+    margin-left: -155px;
+    transform: scale(1.2);
+  }
+  .button_exp {
+    background: white;
+    color: black;
+    border-radius: 50%;
+    width: 150px;
+    height: 52px;
+    transform: scale(1.5);
+    font-weight: 800;
+    margin-left: 3rem;
+    margin-top: 2rem;
+  }
+  .ion-row {
+    position: relative;
+    z-index: 1;
+    height: 108vh;
+    width: 100vw;
+    text-align: center;
+    padding-top: 237px;
+    padding-left: 50%;
+    padding-top: 30.5%;
+    background: black;
+  }
+  .rfid_img {
+    transform: scale(2, 2.2);
+    margin-top: -539px;
+  }
+  .rfid_col {
+    padding-left: 49%;
+    margin-top: -43%;
+    z-index: 999;
+  }
+
+  .rfid_text {
+    color: whitesmoke;
+    font-weight: 500;
+    font-size: 142px;
+  }
+  .ts_16 {
+    margin-top: 286px;
+    position: relative;
+    top: -647px;
+    bottom: 0;
+    left: 0;
+    z-index: 999;
+    text-align: left;
+  }
+  .rfid_text2 {
+    color: whitesmoke;
+    font-size: 36px;
+    font-weight: 500;
+    left: -3%;
+  }
+  .ion-row_b {
+    margin-left: 0;
+  }
+  .ts_16_b {
+    margin-top: 125px;
+    position: relative;
+    top: -711px;
+    bottom: 0;
+    left: -5%;
+    z-index: 999;
+    transform: scale(1.2);
+  }
+  .beacon_col {
+    margin-top: -786px;
+    padding-left: 846px;
+    transform: scale(1.1);
+  }
+  .beacon_img {
+    transform: scale(1.5);
+  }
+}
+
+
+
+
+
+@media (min-width: 425px) and (max-width: 699px) {
+  .navbar_menu {
+    display: none;
+  }
+  .w_714 {
+    transform: scale(0.5);
+  }
+  .rfid_img {
+    display: none;
+  }
+  .ion-row {
+    background-size: 117% 100%;
+    background-image: url("https://res.cloudinary.com/dpysmqax5/image/upload/v1617022431/rfid_home_page_tablet_gw7yb4.jpg");
+  }
+  .rfid_col {
+    margin-top: -314%;
+    z-index: 999;
+    margin-left: -174px;
+    transform: scale(0.8);
+  }
+  .rfid {
+    margin-top: 25%;
+    position: relative;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+  }
+  .ion-row {
+    position: relative;
+    z-index: 1;
+    height: 87vh;
+    width: 100vw;
+    text-align: center;
+    padding-top: 237px;
+    padding-left: 51%;
+    padding-top: 144.5%;
+    margin-left: -17px;
+    height: 100vh;
+  }
+  .lef {
+    margin-top: 231px;
+    position: relative;
+    top: -427px;
+    bottom: 0;
+    left: -12%;
+    z-index: 999;
+    text-align: left;
+    transform: scale(0.6);
+  }
+}
+
+@media (min-width: 425px) and (max-width: 699px) and (min-height: 600px) and (max-height: 650px) {
+  .lef {
+    margin-top: 231px;
+    position: relative;
+    top: -427px;
+    bottom: 0;
+    left: -12%;
+    z-index: 999;
+    text-align: left;
+    transform: scale(0.6);
+  }
+}
+
+@media (min-width: 425px) and (max-width: 699px) and (min-height: 650px) and (max-height: 675px) {
+  .lef {
+    margin-top: 231px;
+    position: relative;
+    top: -407px;
+    bottom: 0;
+    left: -12%;
+    z-index: 999;
+    text-align: left;
+    transform: scale(0.6);
+  }
+}
+
+@media (min-width: 425px) and (max-width: 699px) and (min-height: 675px) and (max-height: 700px) {
+  .lef {
+    margin-top: 231px;
+    position: relative;
+    top: -385px;
+    bottom: 0;
+    left: -12%;
+    z-index: 999;
+    text-align: left;
+    transform: scale(0.6);
+  }
+}
+
+@media (min-width: 425px) and (max-width: 699px) and (min-height: 700px) and (max-height: 730px) {
+  .lef {
+    margin-top: 231px;
+    position: relative;
+    top: -345px;
+    bottom: 0;
+    left: -12%;
+    z-index: 999;
+    text-align: left;
+    transform: scale(0.6);
+  }
+}
+
+@media (min-width: 425px) and (max-width: 699px) and (min-height: 730px) and (max-height: 800px) {
+  .lef {
+    margin-top: 231px;
+    position: relative;
+    top: -300px;
+    bottom: 0;
+    left: -12%;
+    z-index: 999;
+    text-align: left;
+    transform: scale(0.6);
+  }
+}
+
+@media (min-width: 400px) and (max-width: 424px) {
+  .navbar_menu {
+    display: none;
+  }
+  .w_714 {
+    transform: scale(0.4);
+  }
+  .rfid_img {
+    display: none;
+  }
+  .ion-row {
+    background-size: 133% 100%;
+    background-image: url("https://res.cloudinary.com/dpysmqax5/image/upload/v1617022431/rfid_home_page_tablet_gw7yb4.jpg");
+  }
+  .rfid_col {
+    margin-top: -276%;
+    z-index: 999;
+    margin-left: -184px;
+  }
+  .rfid {
+    margin-top: 25%;
+    position: relative;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+  }
+  .ion-row {
+    position: relative;
+    z-index: 1;
+    height: 87vh;
+    width: 100vw;
+    text-align: center;
+    padding-top: 237px;
+    padding-left: 51%;
+    padding-top: 150.5%;
+    margin-left: -17px;
+    height: 100vh;
+  }
+  .lef {
+    margin-top: 12vh;
+    height: 100vh;
+    position: relative;
+    top: -344px;
+    bottom: 0;
+    left: -2%;
+    z-index: 999;
+    text-align: left;
+    transform: scale(0.6);
+  }
+}
+
+@media (min-width: 400px) and (max-width: 424px) and (min-height: 700px) and (max-height: 800px) {
+  .lef {
+    margin-top: 72%;
+    height: 100vh;
+    position: relative;
+    top: -344px;
+    bottom: 0;
+    left: -2%;
+    z-index: 999;
+    text-align: left;
+    transform: scale(0.6);
+  }
+}
+
+@media (min-width: 400px) and (max-width: 424px) and (min-height: 600px) and (max-height: 700px) {
+  .lef {
+    margin-top: 45%;
+    height: 100vh;
+    position: relative;
+    top: -344px;
+    bottom: 0;
+    left: -2%;
+    z-index: 999;
+    text-align: left;
+    transform: scale(0.6);
+  }
+}
+
+@media (min-width: 475px) and (max-width: 699px) and (min-height: 970px) and (max-height: 1050px) {
+  .lef {
+    margin-top: 97%;
+    height: 100vh;
+    position: relative;
+    top: -344px;
+    bottom: 0;
+    left: -2%;
+    z-index: 999;
+    text-align: left;
+    transform: scale(0.7);
+  }
+}
+
+@media (min-width: 400px) and (max-width: 424px) and (min-height: 800px) and (max-height: 850px) {
+  .lef {
+    margin-top: 25vh;
+    height: 100vh;
+    position: relative;
+    top: -344px;
+    bottom: 0;
+    left: -2%;
+    z-index: 999;
+    text-align: left;
+    transform: scale(0.7);
+  }
+}
+
+@media (min-width: 400px) and (max-width: 424px) and (min-height: 850px) and (max-height: 1050px) {
+  .lef {
+    margin-top: 31vh;
+    height: 100vh;
+    position: relative;
+    top: -344px;
+    bottom: 0;
+    left: -2%;
+    z-index: 999;
+    text-align: left;
+    transform: scale(0.7);
+  }
+}
+@media (min-width: 355px) and (max-width: 399px) {
+  .navbar_menu {
+    display: none;
+  }
+  .w_714 {
+    transform: scale(0.4);
+  }
+  .rfid_img {
+    display: none;
+  }
+  .ion-row {
+    background-size: 133% 100%;
+    background-image: url("https://res.cloudinary.com/dpysmqax5/image/upload/v1617022431/rfid_home_page_tablet_gw7yb4.jpg");
+  }
+  .rfid_col {
+    margin-top: -276%;
+    z-index: 999;
+    margin-left: -184px;
+  }
+  .rfid {
+    margin-top: 25%;
+    position: relative;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+  }
+  .ion-row {
+    position: relative;
+    z-index: 1;
+    height: 87vh;
+    width: 100vw;
+    text-align: center;
+    padding-top: 237px;
+    padding-left: 51%;
+    padding-top: 150.5%;
+    margin-left: -17px;
+    height: 100vh;
+  }
+  .lef {
+    margin-top: 231px;
+    position: relative;
+    top: -344px;
+    bottom: 0;
+    left: -2%;
+    z-index: 999;
+    text-align: left;
+    transform: scale(0.7);
+  }
+}
+
+@media (min-width: 355px) and (max-width: 399px) and (min-height: 800px) and (max-height: 950px) {
+  .lef {
+    margin-top: 231px;
+    position: relative;
+    top: -206px;
+    bottom: 0;
+    left: -2%;
+    z-index: 999;
+    text-align: left;
+    transform: scale(0.7);
+  }
+}
+
+@media (min-width: 320px) and (max-width: 354px) {
+  .navbar_menu {
+    display: none;
+  }
+  .w_714 {
+    transform: scale(0.3);
+  }
+  .rfid_img {
+    display: none;
+  }
+  .ion-row {
+    background-size: 133% 100%;
+    background-image: url("https://res.cloudinary.com/dpysmqax5/image/upload/v1617022431/rfid_home_page_tablet_gw7yb4.jpg");
+  }
+  .rfid_col {
+    margin-top: -310%;
+    z-index: 999;
+    margin-left: -138px;
+    transform: scale(0.8);
+  }
+  .rfid {
+    margin-top: 25%;
+    position: relative;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+  }
+  .ion-row {
+    position: relative;
+    z-index: 1;
+    height: 87vh;
+    width: 100vw;
+    text-align: center;
+    padding-top: 237px;
+    padding-left: 51%;
+    padding-top: 150.5%;
+    margin-left: -17px;
+    height: 100vh;
+  }
+  .lef {
+    margin-top: 289px;
+    position: relative;
+    top: -315px;
+    bottom: 0;
+    left: -2%;
+    z-index: 999;
+    text-align: left;
+    transform: scale(0.7);
+  }
+}
+@media (min-width: 1800px) and (max-width: 2200px) and (min-height: 800px) and (max-height: 1100px) {
+  .rfid_img {
+    z-index: 999;
+    margin-left: -61%;
+    margin-top: -48%;
+    transform: scale(1.5, 1.6);
+  }
+
+  .Footer_about > .Footer {
+    position: relative;
+    top: -12rem;
+    left: 10px !important;
+    height: 44vh;
+    background: black;
+    width: 100vw;
+  }
+  .bdr_row {
+    justify-content: space-around;
+    width: 350px;
+    margin-left: 45rem !important;
+  }
+  .Address_row {
+    margin-top: -6rem;
+    margin-left: -385rem;
+    font-family: auto;
+    display: flex;
+    flex-flow: wrap-reverse;
+    transform: scale(1.3);
+    z-index: -99999999;
+    flex-direction: column;
+  }
+  .rfid {
+    margin-top: 4rem;
+    position: relative;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .rfid_col {
+    padding-left: 40%;
+    margin-top: -40%;
+    z-index: 999;
+    transform: scale(1.5);
+  }
+  .ts_16 {
+    margin-top: 210px;
+    position: relative;
+    top: -58rem;
+    bottom: 0;
+    left: 1%;
+    z-index: 999;
+    text-align: left;
+    transform: scale(1.3);
+  }
+
+  .dataLogger {
+    position: absolute;
+    margin-top: 106vh;
+    padding-top: 450px;
+    transform: scale(0.9);
+  }
+  .education {
+    margin-top: 203vh;
+    padding-top: 1089px;
+  }
+}
+
+
+
+
+@media (min-width: 1200px) and (min-height: 600px) and (max-height: 700px) and (max-width: 1400px) {
+
+  .rfid_col {
+    padding-left: 47%;
+    margin-top: -43%;
+    z-index: 999;
+  }
+  .rfid_img {
+    margin-left: -41%;
+    margin-top: -29%;
+    transform: scale(0.8);
+   
+    background-size: 100% 100%;
+    height: 120vh !important;
+    width: 300vw;
+  }
+  .ion-row {
+    width:100%;
+    height: 115vh !important;
+    width: 150vw;
+  }
+  .ts_16 {
+    margin-top: 240px;
+    position: relative;
+    top: -647px;
+    bottom: 0;
+    left: -3%;
+    z-index: 999;
+    text-align: left;
+  }
+
+}

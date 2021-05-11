@@ -1,0 +1,14 @@
+/* .home {
+  height: 700vh;
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
+} */
+.ov {
+  overflow-x: hidden;
+}
+.home_mcol {
+  height: 0;
+}
+.both-scroll {
+  scroll-behavior: smooth;
+}
