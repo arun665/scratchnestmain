@@ -294,6 +294,7 @@
     font-size: 18px;
     left: -5rem;
   }
+
   .pd_txt_colir {
     text-align: center;
     margin-left: 1rem;
@@ -375,3 +376,15 @@
     transform: scale(1.5);
   }
 }
+
+@media (min-width: 1200px) and (max-width: 1400px) and (min-height: 600px) and (max-height: 700px) {
+
+  .contact_footer_dlp {
+    top: 50rem;
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+    left: -5rem;
+  }
+  
+  }

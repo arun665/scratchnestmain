@@ -18,7 +18,7 @@ function Education_sec() {
           >
             Education
           </h1>
-          <IonText className=" loggerText">
+          <IonText className="edu loggerText">
             Technology education brought to your doorstep through the most
             interactive and dynamic platforms
           </IonText>

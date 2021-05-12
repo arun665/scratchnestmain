@@ -136,3 +136,18 @@
     top: -4rem;
   }
 }
+
+
+
+@media (min-width: 1200px) and (max-width: 1400px) and (min-height: 600px) and (max-height: 700px) {
+  .loggerText{
+
+    position: relative;
+    display: flex;
+    margin-top: -4% !important;
+    text-align: center;
+    margin-left: 13rem;
+  }
+
+}
+
