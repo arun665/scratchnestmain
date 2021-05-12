@@ -1106,6 +1106,7 @@ body {
 
 
 @media (min-width: 1200px) and (max-width: 1400px) and (min-height: 600px) and (max-height: 700px) {
+  
   .rfidText {
     
     position: relative;
