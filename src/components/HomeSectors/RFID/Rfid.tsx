@@ -3,6 +3,8 @@ import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import Navbar from "../../Navbar/Navbar";
 import "./Rfid.css";
+import "./Rfid.scss";
+
 import AOS from "aos";
 
 function Rfid() {

@@ -615,35 +615,3 @@
   }
 }
 
-
-@media (min-width: 1200px) and (min-height: 600px) and (max-height: 700px) and (max-width: 1400px) {
-
-  .logger_img {
-    margin-top: -3%;
-    margin-left: -250px;
-    transform: scale(0.9);
-    
-  }
-  .logger_col {
-    padding-left: 55%;
-    margin-top: -48%;
-    z-index: 999;
-    width: 100% !important;
-    transform: scale(0.8);
-  }
-  .ts_16_d {
-    margin-top: 240px;
-    position: relative;
-    top: -56rem;
-    bottom: 0;
-    left: -35%;
-    z-index: 999;
-    transform: scale(1.5);
-  }
-  .btn_r_dl {
-    margin-top: -40rem;
-    margin-left: 77rem;
-    z-index: 9999;
-  }
-  
-}

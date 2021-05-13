@@ -1,6 +1,8 @@
 import { IonCol, IonGrid, IonMenu, IonRow, IonText } from "@ionic/react";
 import React from "react";
 import "./footer.css";
+import "./Footer.scss";
+
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import FacebookIcon from "@material-ui/icons/Facebook";
 import InstagramIcon from "@material-ui/icons/Instagram";

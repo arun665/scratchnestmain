@@ -1,6 +1,8 @@
 import React from "react";
 import Navbar from "../../Navbar/Navbar";
 import "./datalogger.css";
+import "./datalogger.scss";
+
 import { IonCol, IonGrid, IonRow, IonText } from "@ionic/react";
 import { Link } from "react-router-dom";
 

@@ -11,6 +11,8 @@ import {
 import React, { useRef, useState } from "react";
 import Footer from "../Footer/Footer";
 import "./sector.css";
+import "./sector.scss";
+
 import NavigateNextIcon from "@material-ui/icons/NavigateNext";
 import NavigateBeforeIcon from "@material-ui/icons/NavigateBefore";
 import { useHistory } from "react-router";
@@ -45,7 +47,7 @@ function Sector() {
   //     }
   //   };
   return (
-    <>
+    <div id="rfid">
       <IonGrid className="sector container both-scroll both-mandatory padding-0px">
         <IonRow id="e1" className="rfidimagesec element"></IonRow>
         <IonRow className="rfidsector  element">
@@ -400,7 +402,7 @@ function Sector() {
           <Footer />
         </IonRow>
       </IonGrid>
-    </>
+    </div>
   );
 }
 

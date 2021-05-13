@@ -587,12 +587,3 @@ a {
 
 
 
-
-
-
-@media (min-width: 1200px) and (min-height: 600px) and (max-height: 700px) and (max-width: 1400px) {
-
-.Footer{
-  width:105vw;
-}
-}

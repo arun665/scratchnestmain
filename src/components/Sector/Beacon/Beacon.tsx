@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import Footer from "../../Footer/Footer";
 import "./beacon.css";
 
+
 function Beacon() {
   const myRef = useRef(null);
 

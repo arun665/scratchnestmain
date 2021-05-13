@@ -1,5 +1,8 @@
+
 import React from "react";
 import "./education.css";
+import "./education.scss";
+
 import { IonCol, IonGrid, IonRow, IonText } from "@ionic/react";
 import Navbar from "../../Navbar/Navbar";
 import Footer from "../../Footer/Footer";

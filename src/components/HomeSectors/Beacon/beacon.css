@@ -305,31 +305,3 @@
   }
 }
 
-
-
-@media (min-width: 1200px) and (min-height: 600px) and (max-height: 700px) and (max-width: 1400px) {
-
-  .beacon_img {
-    position: relative;
-
-    transform: scale(0.8);
-    width:140vw;
-  }
-
-  .lef2 {
-    margin-top: 133px;
-    position: relative;
-    top: -714px;
-    bottom: 0;
-    left: -5%;
-    z-index: 999;
-    transform: scale(0.9);
-  }
-
-  .beacon_col {
-    padding-left: 880px !important;
-    margin-top: -870px !important;
-    transform: scale(0.8);
-  }
-
-}

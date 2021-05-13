@@ -617,24 +617,3 @@
   }
 }
 
-
-
-@media (min-width: 1200px) and (min-height: 600px) and (max-height: 700px) and (max-width: 1400px) {
-  .education_col {
-    left: 34rem;
-    
-    top: -70rem;
-  }
-
-  .education_text{
-    font-size: 80px;
-  }
-.lef4{
-  margin-top:180px;;
-  left: -6rem;
-}
-
-.btn_e_ed{
-  left: -17rem;
-}
-}
